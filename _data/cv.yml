@@ -1,5 +1,8 @@
 - title: General Information
   type: map
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   contents:
     - name: Full Name
       value: Yukiya Fukuda

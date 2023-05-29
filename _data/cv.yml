@@ -39,17 +39,10 @@
       description:
         - develop point cloud processing(ground detection, object segmentation...etc) for autonomous driving
 
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Publications
+#   type: time_table
+#   contents:
+  
 
 - title: Academic Interests
   type: nested_list

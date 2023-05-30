@@ -6,26 +6,24 @@
   contents:
     - name: Full Name
       value: Yukiya Fukuda
-    - name: Date of Birth
-      value: 2nd December 1997
-    - name: Languages
-      value: Japanese,
+    - name: Email
+      value: yukiya.fukuda265[at]mail.kyutech.jp
 
 - title: Education
   type: time_table
   contents:
-    - title: Master
+    - title: Docter of Engineering
       institution: Kyusyu Institute of Technology, Graduate School of Life Science and Systems Engineering, Japan
-      year: 2022
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Bachelor
+      year: 2022 - 
+
+    - title: Master of Engineering
+      institution: Kyusyu Institute of Technology, Graduate School of Life Science and Systems Engineering, Japan
+      year: 2020 - 2022
+
+    - title: Bachelor of Engineering
       institution: National Institute of Technology, Ube College, Advanced Course, Japan
-      year: 2020
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2018 - 2020
+
 
 - title: Experience
   type: time_table
@@ -34,18 +32,32 @@
       institution: Techno.send, Kitakyusyu, Fukuoka, Japan
       year: 2020 - 
       description:
-        - develop natural lauguage processing(NLP)
-        - 
+        - develop text classification and summarization via natural lauguage processing(NLP)
+      
     - title: Internship at Preffered Networks, Inc.
       institution: Preffered Networks, Inc., Chiyoda-ku, Tokyo, Japan
       year: 2022
       description:
         - develop point cloud processing(ground detection, object segmentation...etc) for autonomous driving
 
-# - title: Publications
-#   type: time_table
-#   contents:
-  
+- title: Awards
+  type: time_table
+  contents:
+    - title: Best Master's Thesis Presentation Award
+      institution: Kyusyu Institute of Technology, Graduate School of Life Science and Systems Engineering
+      year: 2022
+
+    - title: RoboCup 2021, Domestic Standard Platform League, 1st place
+      year: 2021
+    
+    - title: RoboCup 2021, Best Test Performance "Go, Get It !"
+      year: 2021
+
+    - title: RoboCup Japan Open 2020, @Home League, Open Platform, 1st place
+      year: 2020
+
+    - title: RoboCup Japan Open 2020, @Home League, Open Platform Technical Challenge, 1st place
+      year: 2020
 
 - title: Academic Interests
   type: nested_list
@@ -62,8 +74,3 @@
       items:
         - GAN-based generation
         - combination to style transfer
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
